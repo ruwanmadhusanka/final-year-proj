@@ -19,10 +19,10 @@ function NameList() {
         street: "9278 new road",
         city: "kilcoole",
         state: "waterford",
-    },},{ id:2,gender: "male",
+    },},{ id:2,gender: "female",
     name: {
     title: "mr",
-    first: "brad",
+    first: "brad change",
     last: "gibson"
   },
     picture: {
